@@ -17,7 +17,7 @@ IndexName = "chatbot"
 
 # Streamlit Page
 st.set_page_config(page_title="Conversational Finance Chatbot", layout="wide")
-st.title("💬 Airtel Finance Conversational Chatbot")
+st.title("🅰️irtel Finance Conversational Chatbot")
 
 # Initialize session messages
 if "messages" not in st.session_state:
